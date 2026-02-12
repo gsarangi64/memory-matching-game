@@ -53,7 +53,6 @@ When two cards are flipped:
 
 ## Project Structure
 
-```text
 memory-matching-game/
 │
 ├── index.html
@@ -67,7 +66,6 @@ memory-matching-game/
 │   ├── Card2.png
 │   └── ...
 └── README.md
-
 
 ---
 
@@ -96,4 +94,5 @@ No build tools or dependencies required.
 Gaurav Sarangi  
 
 © 2026
+
 
