@@ -9,7 +9,7 @@ This project demonstrates DOM manipulation, game state management, and grid-base
 
 ## Live Demo
 
-(If deployed with GitHub Pages, add link here)
+https://gsarangi64.github.io/memory-matching-game/
 
 ---
 
@@ -92,4 +92,5 @@ No build tools or dependencies required.
 ## Author
 
 Gaurav Sarangi  
+
 © 2026
