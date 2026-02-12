@@ -52,18 +52,20 @@ When two cards are flipped:
 ---
 
 ## Project Structure
+
+```text
 memory-matching-game/
 │
 ├── index.html
 ├── css/
-│ ├── styles.css
+│   └── styles.css
 ├── js/
-│ ├── script.js
+│   └── script.js
 ├── images/
-│ ├── CardBack.png
-│ ├── Card1.png
-│ ├── Card2.png
-│ └── ...
+│   ├── CardBack.png
+│   ├── Card1.png
+│   ├── Card2.png
+│   └── ...
 └── README.md
 
 
@@ -94,3 +96,4 @@ No build tools or dependencies required.
 Gaurav Sarangi  
 
 © 2026
+
